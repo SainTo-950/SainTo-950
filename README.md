@@ -5,7 +5,7 @@
 ###### E-mail : tpdlsxh06@naver.com
 
 <img src="https://img.shields.io/badge/C Sharp-E34F26?style=flat-square&logo=C Sharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JAVA-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-1572B6?style=flat-square&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-339933?style=flat-square&logo=Oracle&logoColor=white"/></a>
 
